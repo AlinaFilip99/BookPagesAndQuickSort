@@ -1,0 +1,31 @@
+testul numarul 1
+pentru numarul de 37 cifre,numarul de pagini este:23
+
+testul numarul 2
+pentru numarul de 6 cifre, numarul de pagini este 6
+
+testul numarul 3
+pentru numarul de 12 cifre,numarul de pagini este:10
+
+testul numarul 4
+pentru numarul de 46 cifre,numarul de pagini este:27
+
+testul numarul 5
+pentru numarul de 34 cifre,numarul de pagini este:21
+
+testul numarul 6
+pentru numarul de 39 cifre,numarul de pagini este:24
+
+testul numarul 7
+pentru numarul de 25 cifre,numarul de pagini este:17
+
+testul numarul 8
+pentru numarul de 13 cifre,numarul de pagini este:11
+
+testul numarul 9
+pentru numarul de 45 cifre,numarul de pagini este:27
+
+testul numarul 10
+pentru numarul de 9 cifre, numarul de pagini este 9
+
+Process returned 0 (0x0)   execution time : 0.116 s

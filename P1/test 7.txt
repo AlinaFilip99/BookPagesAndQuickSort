@@ -1,0 +1,31 @@
+testul numarul 1
+pentru numarul de 56 cifre,numarul de pagini este:32
+
+testul numarul 2
+pentru numarul de 116 cifre,numarul de pagini este:62
+
+testul numarul 3
+pentru numarul de 72 cifre,numarul de pagini este:40
+
+testul numarul 4
+pentru numarul de 159 cifre,numarul de pagini este:84
+
+testul numarul 5
+pentru numarul de 149 cifre,numarul de pagini este:79
+
+testul numarul 6
+pentru numarul de 323 cifre,numarul de pagini este:143
+
+testul numarul 7
+pentru numarul de 169 cifre,numarul de pagini este:89
+
+testul numarul 8
+pentru numarul de 322 cifre,numarul de pagini este:143
+
+testul numarul 9
+pentru numarul de 716 cifre,numarul de pagini este:274
+
+testul numarul 10
+pentru numarul de 923 cifre,numarul de pagini este:343
+
+Process returned 0 (0x0)   execution time : 0.155 s

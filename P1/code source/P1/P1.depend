@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1555852694 source:c:\users\alina\desktop\p1\calcul.c
+	"calcul.h"
+
+1555852177 c:\users\alina\desktop\p1\calcul.h
+
+1555854587 source:c:\users\alina\desktop\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcul.h"
+	"print.h"
+
+1555852152 c:\users\alina\desktop\p1\print.h
+
+1555854609 source:c:\users\alina\desktop\p1\print.c
+	"print.h"
+
+1555921628 source:c:\users\alina\desktop\proiect pa\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcul.h"
+	"print.h"
+
+1555869282 c:\users\alina\desktop\proiect pa\p1\calcul.h
+
+1555852152 c:\users\alina\desktop\proiect pa\p1\print.h
+
+1555854609 source:c:\users\alina\desktop\proiect pa\p1\print.c
+	"print.h"
+
+1555871267 source:c:\users\alina\desktop\proiect pa\p1\calcul.c
+	"calcul.h"
+
+1555871267 source:c:\users\alina\desktop\proiect pa\p1\code source\p1\calcul.c
+	"calcul.h"
+
+1555869282 c:\users\alina\desktop\proiect pa\p1\code source\p1\calcul.h
+
+1555854609 source:c:\users\alina\desktop\proiect pa\p1\code source\p1\print.c
+	"print.h"
+
+1555852152 c:\users\alina\desktop\proiect pa\p1\code source\p1\print.h
+
+1555966607 source:c:\users\alina\desktop\proiect pa\p1\code source\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcul.h"
+	"print.h"
+

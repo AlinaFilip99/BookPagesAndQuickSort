@@ -1,0 +1,31 @@
+testul numarul 1
+pentru numarul de 5558 cifre,numarul de pagini este:1666
+
+testul numarul 2
+pentru numarul de 8411 cifre,numarul de pagini este:2379
+
+testul numarul 3
+pentru numarul de 3521 cifre,numarul de pagini este:1157
+
+testul numarul 4
+pentru numarul de 19083 cifre,numarul de pagini este:5047
+
+testul numarul 5
+pentru numarul de 23788 cifre,numarul de pagini este:6223
+
+testul numarul 6
+pentru numarul de 4605 cifre,numarul de pagini este:1428
+
+testul numarul 7
+pentru numarul de 6879 cifre,numarul de pagini este:1996
+
+testul numarul 8
+pentru numarul de 487 cifre,numarul de pagini este:198
+
+testul numarul 9
+pentru numarul de 6642 cifre,numarul de pagini este:1937
+
+testul numarul 10
+pentru numarul de 13272 cifre,numarul de pagini este:3594
+
+Process returned 0 (0x0)   execution time : 0.149 s

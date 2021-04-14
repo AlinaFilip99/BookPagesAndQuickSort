@@ -1,0 +1,21 @@
+testul nr 1
+ pentru sirul 0.082461, 0.767937 partitionarea cu suma minima dintre sumele maxime este: (0.082461, 0.767937)
+testul nr 2
+ pentru sirul 0.927000, 0.487838 partitionarea cu suma minima dintre sumele maxime este: (0.927000, 0.487838)
+testul nr 3
+pentru sirul: 0.112094 0.284219 0.580432 0.621845 0.636158 0.829493 partitionarea cu suma minima dintre sumele maxime este:(0.112094,0.829493); (0.284219,0.580432); (0.621845,0.636158);
+testul nr 4
+pentru sirul: 0.011719 0.268838 0.664754 0.861904 partitionarea cu suma minima dintre sumele maxime este:(0.011719,0.861904); (0.268838,0.664754);
+testul nr 5
+ pentru sirul 0.859249, 0.591632 partitionarea cu suma minima dintre sumele maxime este: (0.859249, 0.591632)
+testul nr 6
+pentru sirul: 0.003632 0.123142 0.128117 0.386944 0.523606 0.814875 partitionarea cu suma minima dintre sumele maxime este:(0.003632,0.814875); (0.123142,0.128117); (0.386944,0.523606);
+testul nr 7
+pentru sirul: 0.199591 0.619678 0.718802 0.819086 partitionarea cu suma minima dintre sumele maxime este:(0.199591,0.819086); (0.619678,0.718802);
+testul nr 8
+pentru sirul: 0.108524 0.270028 0.288919 0.301981 0.507370 0.588244 0.735588 0.844569 0.952940 0.956389 partitionarea cu suma minima dintre sumele maxime este:(0.108524,0.956389); (0.270028,0.288919); (0.301981,0.507370); (0.588244,0.735588); (0.844569,0.952940);
+testul nr 9
+pentru sirul: 0.159948 0.225227 0.237648 0.350749 0.479263 0.858791 0.885586 0.980224 partitionarea cu suma minima dintre sumele maxime este:(0.159948,0.980224); (0.225227,0.237648); (0.350749,0.479263); (0.858791,0.885586);
+testul nr 10
+pentru sirul: 0.030061 0.322428 0.365978 0.489029 0.705557 0.864925 partitionarea cu suma minima dintre sumele maxime este:(0.030061,0.864925); (0.322428,0.365978); (0.489029,0.705557);
+Process returned 0 (0x0)   execution time : 0.056 s

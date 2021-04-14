@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1555914095 source:c:\users\alina\desktop\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+	"vectors.h"
+	"utils.h"
+
+1555913737 c:\users\alina\desktop\p2\sort.h
+
+1555913779 c:\users\alina\desktop\p2\vectors.h
+
+1555913849 c:\users\alina\desktop\p2\utils.h
+
+1555913934 source:c:\users\alina\desktop\p2\sort.c
+	"sort.h"
+	"vectors.h"
+
+1555913934 source:c:\users\alina\desktop\p2\utils.c
+	"utils.h"
+
+1555914193 source:c:\users\alina\desktop\p2\vectors.c
+	"vectors.h"
+
+1555913934 source:c:\users\alina\desktop\proiect pa\p2\code source\p2\sort.c
+	"sort.h"
+	"vectors.h"
+
+1555913737 c:\users\alina\desktop\proiect pa\p2\code source\p2\sort.h
+
+1555913779 c:\users\alina\desktop\proiect pa\p2\code source\p2\vectors.h
+
+1555927154 source:c:\users\alina\desktop\proiect pa\p2\code source\p2\utils.c
+	"utils.h"
+
+1555913849 c:\users\alina\desktop\proiect pa\p2\code source\p2\utils.h
+
+1555940593 source:c:\users\alina\desktop\proiect pa\p2\code source\p2\vectors.c
+	"vectors.h"
+
+1555941520 source:c:\users\alina\desktop\proiect pa\p2\code source\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+	"vectors.h"
+

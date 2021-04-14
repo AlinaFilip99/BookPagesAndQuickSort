@@ -1,0 +1,21 @@
+testul nr 1
+pentru sirul: 0.031190 0.128422 0.714988 0.747032 partitionarea cu suma minima dintre sumele maxime este:(0.031190,0.747032); (0.128422,0.714988);
+testul nr 2
+ pentru sirul 0.918363, 0.254891 partitionarea cu suma minima dintre sumele maxime este: (0.918363, 0.254891)
+testul nr 3
+pentru sirul: 0.102420 0.110233 0.317454 0.343425 0.367229 0.487960 0.649373 0.716971 0.722068 0.755303 partitionarea cu suma minima dintre sumele maxime este:(0.102420,0.755303); (0.110233,0.317454); (0.343425,0.367229); (0.487960,0.649373); (0.716971,0.722068);
+testul nr 4
+pentru sirul: 0.437971 0.591601 0.753227 0.806879 0.865413 0.909574 0.941862 0.985992 partitionarea cu suma minima dintre sumele maxime este:(0.437971,0.985992); (0.591601,0.753227); (0.806879,0.865413); (0.909574,0.941862);
+testul nr 5
+pentru sirul: 0.184027 0.457289 0.535569 0.749870 0.765435 0.927702 partitionarea cu suma minima dintre sumele maxime este:(0.184027,0.927702); (0.457289,0.535569); (0.749870,0.765435);
+testul nr 6
+pentru sirul: 0.041627 0.053194 0.119327 0.328867 0.625751 0.640919 0.864742 0.898801 partitionarea cu suma minima dintre sumele maxime este:(0.041627,0.898801); (0.053194,0.119327); (0.328867,0.625751); (0.640919,0.864742);
+testul nr 7
+dimensiunea sirului este 0, nu se poate forma nici o pereche
+testul nr 8
+pentru sirul: 0.053804 0.081820 0.105380 0.115146 0.170354 0.422224 0.435286 0.530992 0.878872 0.963561 partitionarea cu suma minima dintre sumele maxime este:(0.053804,0.963561); (0.081820,0.105380); (0.115146,0.170354); (0.422224,0.435286); (0.530992,0.878872);
+testul nr 9
+pentru sirul: 0.433607 0.462172 0.662404 0.833674 0.910031 0.997131 partitionarea cu suma minima dintre sumele maxime este:(0.433607,0.997131); (0.462172,0.662404); (0.833674,0.910031);
+testul nr 10
+pentru sirul: 0.095035 0.116672 0.157201 0.209174 0.225288 0.267983 0.293619 0.415662 0.478042 0.981384 partitionarea cu suma minima dintre sumele maxime este:(0.095035,0.981384); (0.116672,0.157201); (0.209174,0.225288); (0.267983,0.293619); (0.415662,0.478042);
+Process returned 0 (0x0)   execution time : 0.062 s

@@ -1,0 +1,31 @@
+testul numarul 1
+pentru numarul de 15 cifre,numarul de pagini este:12
+
+testul numarul 2
+pentru numarul de 24 cifre,numarul de pagini este:16
+
+testul numarul 3
+pentru numarul de 16 cifre,numarul de pagini este:12
+
+testul numarul 4
+pentru numarul de 12 cifre,numarul de pagini este:10
+
+testul numarul 5
+pentru numarul de 5 cifre, numarul de pagini este 5
+
+testul numarul 6
+pentru numarul de 20 cifre,numarul de pagini este:14
+
+testul numarul 7
+pentru numarul de 22 cifre,numarul de pagini este:15
+
+testul numarul 8
+pentru numarul de 13 cifre,numarul de pagini este:11
+
+testul numarul 9
+pentru numarul de 0 cifre, numarul de pagini este 0
+
+testul numarul 10
+pentru numarul de 12 cifre,numarul de pagini este:10
+
+Process returned 0 (0x0)   execution time : 0.044 s

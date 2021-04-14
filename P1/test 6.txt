@@ -1,0 +1,31 @@
+testul numarul 1
+pentru numarul de 9 cifre, numarul de pagini este 9
+
+testul numarul 2
+pentru numarul de 58 cifre,numarul de pagini este:33
+
+testul numarul 3
+pentru numarul de 84 cifre,numarul de pagini este:46
+
+testul numarul 4
+pentru numarul de 54 cifre,numarul de pagini este:31
+
+testul numarul 5
+pentru numarul de 45 cifre,numarul de pagini este:27
+
+testul numarul 6
+pentru numarul de 28 cifre,numarul de pagini este:18
+
+testul numarul 7
+pentru numarul de 48 cifre,numarul de pagini este:28
+
+testul numarul 8
+pentru numarul de 77 cifre,numarul de pagini este:43
+
+testul numarul 9
+pentru numarul de 58 cifre,numarul de pagini este:33
+
+testul numarul 10
+pentru numarul de 42 cifre,numarul de pagini este:25
+
+Process returned 0 (0x0)   execution time : 0.119 s
